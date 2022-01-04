@@ -5,7 +5,11 @@ This is your team repository for holding standup notes and other team wide infor
 # Team Members :
 
 Justin
+
 Elias Calagiu
+
 Mario Jimenez
+
 Jessie Guadarrama
+
 Eric Florence
